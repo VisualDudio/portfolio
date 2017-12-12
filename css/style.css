@@ -16,6 +16,7 @@ body {
 .rating {
     display: block;
     height: 100px;
+    margin-bottom: 20px;
 }
 
 .profile-picture {
